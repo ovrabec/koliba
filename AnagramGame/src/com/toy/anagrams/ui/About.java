@@ -39,6 +39,7 @@ import javax.swing.JDialog;
 import javax.swing.JFrame;
 
 /**
+ * blablabla
  * About dialog of the Anagram Game application.
  */
 public class About extends JDialog {
